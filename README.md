@@ -16,11 +16,12 @@ In the command line:
 ## Generate genesis block:
 In the command line, I ran puppeth to create a Proof of Authority blockchain. The new blockchain is called Petcoin, and runs on two nodes - dognode1 and catnode2. 
 The addresses that were assigned to each node when they were created using Geth, have been assigned to the new POA blockchain in the list of accounts to seal and pre-fund here:
-![alt text](screenshots/petcoin_configuration.png)
+
+   * ![alt text](screenshots/petcoin_configuration.png)
 
 Below is the final puppeth configuration of petcoin:
 
-![alt text](screenshots/petcoin_configuration2.png)
+   * ![alt text](screenshots/petcoin_configuration2.png)
 
 ## Initializing Nodes:
 To initialize the the nodes with the genesis' json file:
