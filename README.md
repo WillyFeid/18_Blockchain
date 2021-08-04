@@ -16,11 +16,11 @@ In the command line:
 ## Generate genesis block:
 In the command line, I ran puppeth to create a Proof of Authority blockchain. The new blockchain is called Petcoin, and runs on two nodes - dognode1 and catnode2. 
 The addresses that were assigned to each node when they were created using Geth, have been assigned to the new POA blockchain in the list of accounts to seal and pre-fund here:
-! [alt text] (screenshots/petcoin_configuration.png)
+! [alt text](screenshots/petcoin_configuration.png)
 
 Below is the final puppeth configuration of petcoin:
 
-! [alt text] (screenshots/petcoin_configuration2.png)
+! [alt text](screenshots/petcoin_configuration2.png)
 
 ## Initializing Nodes:
 To initialize the the nodes with the genesis' json file:
@@ -44,7 +44,7 @@ Using MyCrypto GUI wallet, I connected the node with the exposed RPC port. For t
 Import the private key by uploading the keystore file from dognode1.
 
 Successful ETH transaction from dognode1 to catnode2:
-! [alt text] (screenshots/Successful Transaction.png)
+! [alt text](screenshots/Successful Transaction.png)
 
 
 
