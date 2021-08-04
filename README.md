@@ -44,7 +44,7 @@ Using MyCrypto GUI wallet, I connected the node with the exposed RPC port. For t
 Import the private key by uploading the keystore file from dognode1.
 
 Successful ETH transaction from dognode1 to catnode2:
-! [alt text](screenshots/Successful Transaction.png)
+! [alt text](https://github.com/WillyFeid/18_Blockchain/blob/main/screenshots/Successful%20Transaction.png)
 
 
 
